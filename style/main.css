@@ -297,6 +297,16 @@ hr {
   -moz-transform: translate(363px, 363px);
   transform: translate(363px, 363px); }
 
+  
+ .music {
+ 
+  margin-left: 100px;
+ 
+ }
+  
+  
+  
+  
 .tile {
   position: absolute;
   -webkit-transition: 100ms ease-in-out;
