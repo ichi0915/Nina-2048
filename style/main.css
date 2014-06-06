@@ -503,6 +503,14 @@ hr {
   -moz-animation-fill-mode: backwards;
   animation-fill-mode: backwards; }
 
+  
+ /*yo agregue*/
+ .above-game{
+  padding-top: 8px; 
+  }
+  
+  
+  
 .above-game:after {
   content: "";
   display: block;
